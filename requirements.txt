@@ -1,0 +1,10 @@
+gradio
+python-dotenv
+google-generativeai
+sendgrid
+pydantic
+aiohttp
+asyncio
+python-multipart
+wikipedia-api
+beautifulsoup4

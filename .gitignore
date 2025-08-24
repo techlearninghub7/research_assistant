@@ -1,0 +1,10 @@
+.env
+app1.py
+app2.py
+setup-env.ps1
+__pycache__/
+*.pyc
+.venv/
+create-project-structure.ps1
+utils/__pycache__/
+agents/__pycache__/
